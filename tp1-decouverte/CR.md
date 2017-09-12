@@ -11,7 +11,7 @@
 	methodes.py 
 	phase_systlin.py
 	ce sont des fichiers contiennent les codes en python 
-4. .
+4. git add  - git commit  - git push 
 ## Partie 2: programmes de calcul en Python, utilisation de Numpy et Matplotlib
 1. (...)
 2. (...)
