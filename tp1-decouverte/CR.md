@@ -10,11 +10,23 @@
 	hello_world.py 
 	methodes.py 
 	phase_systlin.py
-	ce sont des fichiers contiennent les codes en python 
+	ce sont des fichiers contiennent les codes en python
+	ecran01.png  c'est  une image 
 4. git add  - git commit  - git push 
 ## Partie 2: programmes de calcul en Python, utilisation de Numpy et Matplotlib
-1. (...)
-2. (...)
+1. Une chaîne de caractère avec des caractères typiquement français, par exemple le symbole de l'euro, € !
+
+x=0.1 est de type <type 'float'>
+x=1.0 est de type <type 'float'>
+x=1 est de type <type 'int'>
+L'expression 3==4 vaut False et est de type <type 'bool'>
+L'expression 3<=4 vaut True et est de type <type 'bool'>
+
+
+2. 
+![oscillateur harmonique , fréquence a=1.5](./img/harmonic.png)
+![oscillateur amorti , fréquence a=1.5](./img/Amorti.png)
+![oscillateur amplifié , fréquence a=1.5](./img/Amplifié.png)
 3. (...)
 4. (...)
 5. (...)
