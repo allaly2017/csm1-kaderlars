@@ -27,6 +27,7 @@ L'expression 3<=4 vaut True et est de type <type 'bool'>
 ![oscillateur harmonique , fréquence a=1.5](./img/harmonic.png)
 ![oscillateur amorti , fréquence a=1.5](./img/Amorti.png)
 ![oscillateur amplifié , fréquence a=1.5](./img/Amplifié.png)
+
 3. (...)
 4. (...)
 5. (...)
