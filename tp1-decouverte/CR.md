@@ -24,7 +24,7 @@ L'expression 3<=4 vaut True et est de type <type 'bool'>
 
 
 2. 
-![oscillateur harmonique , fréquence a=1.5](https://github.com/upici/csm1-kaderlars/tp1-decouverte/img/lineaire.png)
+![oscillateur harmonique , fréquence a=1.5](https://github.com/upici/csm1-kaderlars/blob/master/tp1-decouverte/img/Amorti%20.png)
 ![oscillateur amorti , fréquence a=1.5](./img/Amorti.png)
 ![oscillateur amplifié , fréquence a=1.5](./img/Amplifié.png)
 
