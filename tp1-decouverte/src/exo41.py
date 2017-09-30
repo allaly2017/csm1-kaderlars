@@ -12,8 +12,8 @@ reload (sys)
 sys.setdefaultencoding('utf8')
 # Paramètres du système linéaire, y'' + by' + a^2y = 0, qui est un oscillateur
 # harmonique (cas b=0) amorti (b>0) ou amplifié (b<0).
-a = 0.9 # fréquence
-b = 4. # amortissement
+a = 0.75 # fréquence
+b = 4 # amortissement
 A = np.array([[0.,1.],[-a**2,-b]]) # Matrice du système obtenu par réécriture à
                                    # l'ordre 1 de l'équation
 

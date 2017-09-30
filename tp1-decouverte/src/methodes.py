@@ -12,14 +12,15 @@ def euler_explicite(t0,h,N, y0,f):
     """
 
     t = np.arange(t0,t0+N*h,h)
-    y = 0.*t # Alloue un tableau de la taille de t, initialisé à 0.
+    y =[0]*N # Alloue un tableau de la taille de t, initialisé à 0.
 
     # Donnée initiale
     y[0] = y0
 
     # Itérations en temps
     for k in np.arange(0,N-1,1):
-        y[k+1] = y[k] + h*f(t[k],y[k])
+        y[k+1] = y[k] + h*f(y[k],t[k])
 
     return [t,y]
+
 
