@@ -34,13 +34,10 @@ L'expression 3<=4 vaut True et est de type <type 'bool'>
 ![harmonique, fréquence a=1.5](https://github.com/upici/csm1-kaderlars/blob/master/tp1-decouverte/src/aaaa/harmo.png)
 ![amplifié, fréquence a=1.5](https://github.com/upici/csm1-kaderlars/blob/master/tp1-decouverte/src/aaaa/amplifiéé.png)
 
-<<<<<<< HEAD
 4. 
 4.1/
-![Euler]()
+![Euler](https://github.com/upici/csm1-kaderlars/blob/master/tp1-decouverte/img/kader.png)
 
-=======
-4. (...)
->>>>>>> c3747e90baa61e8d9e0e77d9e107b7e0e5bae97c
+
 
 5. (...)
