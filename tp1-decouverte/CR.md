@@ -46,6 +46,8 @@ Pour une fréquence a=1.5   on obtient un oscillateur amplifié
 4.1/
 ![Euler](https://github.com/upici/csm1-kaderlars/blob/master/tp1-decouverte/img/kader.png)
 
+les solutions approchées par la méthode d'Euler
+
 
 
 5. (...)
